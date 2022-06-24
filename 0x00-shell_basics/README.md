@@ -7,3 +7,4 @@
 6 creates directory in /tmp/
 7 moves file from directory to another
 8 deletes file in directory
+9 deletes directory
