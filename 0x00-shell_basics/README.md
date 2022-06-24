@@ -5,3 +5,4 @@
 4 display current directory contents including hidden files
 5 as no 4 but uid in numerics
 6 creates directory in /tmp/
+7 moves file from directory to another
