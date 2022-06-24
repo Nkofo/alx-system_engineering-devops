@@ -5,3 +5,4 @@
 4 create empty file
 5 add execute permissions for user
 6 permissins for multiple users
+7 permission to all users
