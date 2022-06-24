@@ -9,3 +9,4 @@
 8 give all permissions to other users and take them away from owner and group
 9 set permisssions as given
 10 mirror file permissions
+11 gives permission to subdirectories
