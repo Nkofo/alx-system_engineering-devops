@@ -3,3 +3,4 @@
 2 list user groups
 3 change file ownership
 4 create empty file
+5 add execute permissions for user
