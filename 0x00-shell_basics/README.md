@@ -9,3 +9,4 @@
 8 deletes file in directory
 9 deletes directory
 10 changes to previous working directory
+11 list files of multiple directories
