@@ -10,3 +10,5 @@
 9 set permisssions as given
 10 mirror file permissions
 11 gives permission to subdirectories
+12 create directory and give permissions
+
